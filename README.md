@@ -5,7 +5,9 @@ the car leaves and compute the charges due. Any driver can connect to a home net
 available parking spaces. The parking space also monitors the car if there is a fire hazard. The parking lot is equipped 
 with cameras for security and the types of equipment are solar powered.
 
-Main Features
+This project was created using Packet Tracer Version 7.2.1
+
+# Main Features
 
 -->Every parking space in the parking lot has an MCU connected to all the IoT devices. 
 
